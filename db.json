@@ -9,18 +9,6 @@
       "title": "Post with userId",
       "description": "Post with userId",
       "id": 5
-    },
-    {
-      "title": "user exists",
-      "description": "Post with userId fillled new data is amazing",
-      "googleId": "100581774011601470348",
-      "id": 6
-    },
-    {
-      "title": "This stream is created by me!",
-      "description": "This stream is created by me which is awesome!!",
-      "googleId": "100581774011601470348",
-      "id": 7
     }
   ]
 }
